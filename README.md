@@ -10,11 +10,12 @@ Deadline: 13 Dec 2021
 
 3. URL 1: The GitHub repository (following the “checklists”)
 – codes (.ipynb or .py or .R, or SPSS syntax)
-analysis.ipynb
+https://github.com/asphyxia0917/aidm7410
+
 – data samples: the first 10 rows of datasets used for analysis (for uploading to
 the public domain)
 	          
-user
+  user
 6 MTV	          
 4 Genius	      
 3 Shmurda	      
@@ -33,4 +34,3 @@ https://nbviewer.org/github/asphyxia0917/aidm7410/blob/main/analysis.ipynb
 5. URL 3: (optional, bonus 15’ if made): the internal published
 version of the report (uploading the report to an online platform
 or a dashboard, such as GitHub pages, R Shiny) 
-https://github.com/asphyxia0917/aidm7410
