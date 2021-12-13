@@ -14,17 +14,17 @@ analysis.ipynb
 – data samples: the first 10 rows of datasets used for analysis (for uploading to
 the public domain)
 	          
-		  user
-MTV	          6  
-Genius	      4
-Shmurda	      3
-Migos         3
-TM88	        3
-djgregstreet	3
-Skrillex	    3
-Nineteen85	  2
-SPIN	        2
-Power106LA	  2
+user
+6 MTV	          
+4 Genius	      
+3 Shmurda	      
+3 Migos         
+3 TM88	        
+3 djgregstreet	
+3 Skrillex	    
+2 Nineteen85	  
+2 SPIN	        
+2 Power106LA	  
 
 4. URL 2: The data and analytical procedures (from your GitHub repo)
 – using NBViewer or RPubs to render your code and the outputs
