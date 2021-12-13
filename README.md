@@ -1,9 +1,21 @@
-# aidm7410
+# AIDM7410 Computational Journalism
+ 
+Final group report
+
+Topic: Travis Scott stampede at Music Festival
+
+Group members:   
+21419914 ZHANG YUXUAN
+21460272 QIU MINGYANG
+21448108 CAI JING
+21435014 WEN QI
+
 Files to be submitted: the project
 section (40%)
 Deadline: 13 Dec 2021
 1. File 1: [xxx.docx] The pre-print version of the report (Word, not PDF)
 – The full paper or the news story in the APA style
+AIDM7410 Group Project.docx
 
 2. File 2s: [xxx.csv] All the datasets (encoding: utf-8)
 互关的人中推文提到的次数.csv and 最终情感分析结果.csv
