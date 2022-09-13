@@ -1,4 +1,4 @@
-# AIDM7410 Computational Journalism
+# AIDM Computational Journalism
  
 Final group report
 
